@@ -4,7 +4,7 @@ title: 首页
 hero:
   name: 天梯
   text: 菜菜的个人博客
-  tagline: 开发中
+  tagline: 创作中
   image:
     src: /img/bg.png
     alt: background
@@ -27,5 +27,5 @@ features:
     details: 数学、物理、计算机
   - icon: 🛠️
     title: 关于本站
-    details: 使用 Vitepress 生成
+    details: 使用 Vitepress 生成，在 Netlify 部署
 ---
