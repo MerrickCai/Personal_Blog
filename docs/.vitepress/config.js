@@ -55,7 +55,8 @@ export default {
         collapsible: true,
         collapsed: false,
         items: [
-          { text: 'C语言', link: '/notes/1' }
+          { text: 'C语言', link: '/notes/1' },
+          { text: '科幻', link: '/notes/2' }
         ]
       }
     ]
