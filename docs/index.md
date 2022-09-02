@@ -15,9 +15,6 @@ hero:
     - theme: alt
       text: 笔记
       link: /notes/
-    - theme: alt
-      text: Vitepress
-      link: https://vitepress.vuejs.org/
 features:
   - icon: ⚡️
     title: 前端开发
