@@ -1,4 +1,4 @@
 git add .
-git commit -m 'deploy'
+git commit -m 'update&deploy'
 git push
 exit

@@ -40,6 +40,7 @@ export default {
         collapsed: false,
         items: [
           { text: '网站大全', link: '/front-end/10' },
+          { text: '问卷易', link: '/front-end/11' },
           { text: 'Git', link: '/front-end/1' },
           { text: '网络请求', link: '/front-end/2' },
           { text: '异步编程', link: '/front-end/3' },
