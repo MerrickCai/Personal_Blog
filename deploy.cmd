@@ -1,4 +1,4 @@
 git add .
-git commit -m 'update&deploy'
+git commit -m 'upupup'
 git push
 exit
