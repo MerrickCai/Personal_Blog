@@ -11,10 +11,13 @@ hero:
   actions:
     - theme: brand
       text: 前端开发
-      link: /front-end/
-    - theme: alt
+      link: /front-end/1
+    - theme: brand
       text: 笔记
-      link: /notes/
+      link: /notes/1
+    - theme: alt
+      text: 关于
+      link: /about
 features:
   - icon: ⚡️
     title: 前端开发
