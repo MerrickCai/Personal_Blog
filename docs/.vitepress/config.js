@@ -29,8 +29,9 @@ export default {
       next: '下一篇'
     },
     nav: [
-      { text: '前端开发', link: '/front-end/', activeMatch: '/front-end/' },
-      { text: '笔记', link: '/notes/', activeMatch: '/notes/' },
+      { text: '前端开发', link: '/front-end/1', activeMatch: '/front-end/' },
+      { text: '笔记', link: '/notes/1', activeMatch: '/notes/' },
+      { text: '关于', link: '/about', activeMatch: '/about' },
     ],
     //侧边导航
     sidebar: [
@@ -39,17 +40,17 @@ export default {
         collapsible: true,
         collapsed: false,
         items: [
-          { text: '网站大全', link: '/front-end/10' },
-          { text: '问卷易', link: '/front-end/11' },
           { text: 'Git', link: '/front-end/1' },
           { text: '网络请求', link: '/front-end/2' },
           { text: '异步编程', link: '/front-end/3' },
           { text: '页面渲染', link: '/front-end/4' },
           { text: '模块化', link: '/front-end/5' },
           { text: 'Pinia', link: '/front-end/6' },
-          { text: '本地存储和JSON', link: '/front-end/7' },
+          { text: '前端鉴权', link: '/front-end/7' },
           { text: 'CSS', link: '/front-end/8' },
-          { text: 'JS', link: '/front-end/9' }
+          { text: 'JS', link: '/front-end/9' },
+          { text: '网站大全', link: '/front-end/10' },
+          { text: '问卷易', link: '/front-end/11' },
         ]
       },
       {
