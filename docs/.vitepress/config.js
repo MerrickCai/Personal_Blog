@@ -29,7 +29,7 @@ export default {
       next: '下一篇'
     },
     nav: [
-      { text: '前端开发', link: '/front-end/1', activeMatch: '/front-end/' },
+      { text: '前端开发', link: '/front-end/10', activeMatch: '/front-end/' },
       { text: '笔记', link: '/notes/1', activeMatch: '/notes/' },
       { text: '关于', link: '/about', activeMatch: '/about' },
     ],
