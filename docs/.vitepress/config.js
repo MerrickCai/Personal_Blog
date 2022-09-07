@@ -34,34 +34,45 @@ export default {
       { text: '关于', link: '/about', activeMatch: '/about' },
     ],
     //侧边导航
-    sidebar: [
-      {
-        text: '前端开发',
-        collapsible: true,
-        collapsed: false,
-        items: [
-          { text: 'Git', link: '/front-end/1' },
-          { text: '网络请求', link: '/front-end/2' },
-          { text: '异步编程', link: '/front-end/3' },
-          { text: '页面渲染', link: '/front-end/4' },
-          { text: '模块化', link: '/front-end/5' },
-          { text: 'Pinia', link: '/front-end/6' },
-          { text: '前端鉴权', link: '/front-end/7' },
-          { text: 'CSS', link: '/front-end/8' },
-          { text: 'JS', link: '/front-end/9' },
-          { text: '网站大全', link: '/front-end/10' },
-          { text: '问卷易', link: '/front-end/11' },
-        ]
-      },
-      {
-        text: '笔记',
-        collapsible: true,
-        collapsed: false,
-        items: [
-          { text: 'C语言', link: '/notes/1' },
-          { text: '科幻', link: '/notes/2' }
-        ]
-      }
-    ]
+    sidebar: {
+      '/front-end/': [
+        {
+          text: '记录',
+          collapsible: true,
+          collapsed: false,
+          items: [
+            { text: '网站大全', link: '/front-end/10' },
+            { text: '前端开发学习', link: '/front-end/12' },
+            { text: '问卷易', link: '/front-end/11' },
+          ]
+        },
+        {
+          text: '知识点',
+          collapsible: true,
+          collapsed: false,
+          items: [
+            { text: 'Git', link: '/front-end/1' },
+            { text: '网络请求', link: '/front-end/2' },
+            { text: '异步编程', link: '/front-end/3' },
+            { text: '页面渲染', link: '/front-end/4' },
+            { text: '模块化', link: '/front-end/5' },
+            { text: 'Pinia', link: '/front-end/6' },
+            { text: 'CSS', link: '/front-end/8' },
+            { text: 'JS', link: '/front-end/9' },
+            { text: '函数式编程', link: '/front-end/13' },
+            { text: '前端鉴权', link: '/front-end/7' },
+          ]
+        },
+      ],
+      '/notes/': [
+        {
+          text: '笔记',
+          items: [
+            { text: 'C语言', link: '/notes/1' },
+            { text: '科幻', link: '/notes/2' }
+          ]
+        }
+      ]
+    }
   }
 }
