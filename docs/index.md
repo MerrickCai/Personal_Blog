@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 前端开发
-      link: /front-end/1
+      link: /front-end/10
     - theme: brand
       text: 笔记
       link: /notes/1
