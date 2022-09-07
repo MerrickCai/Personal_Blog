@@ -52,13 +52,13 @@ export default {
           collapsed: false,
           items: [
             { text: 'Git', link: '/front-end/1' },
+            { text: 'CSS', link: '/front-end/8' },
+            { text: 'JS', link: '/front-end/9' },
             { text: '网络请求', link: '/front-end/2' },
             { text: '异步编程', link: '/front-end/3' },
             { text: '页面渲染', link: '/front-end/4' },
             { text: '模块化', link: '/front-end/5' },
             { text: 'Pinia', link: '/front-end/6' },
-            { text: 'CSS', link: '/front-end/8' },
-            { text: 'JS', link: '/front-end/9' },
             { text: '函数式编程', link: '/front-end/13' },
             { text: '前端鉴权', link: '/front-end/7' },
           ]
