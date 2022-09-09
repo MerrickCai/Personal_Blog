@@ -44,6 +44,7 @@ export default {
             { text: '网站大全', link: '/front-end/10' },
             { text: '前端开发学习', link: '/front-end/12' },
             { text: '问卷易', link: '/front-end/11' },
+            { text: 'SEATTA', link: '/front-end/14' },
           ]
         },
         {
@@ -59,8 +60,8 @@ export default {
             { text: '页面渲染', link: '/front-end/4' },
             { text: '模块化', link: '/front-end/5' },
             { text: 'Pinia', link: '/front-end/6' },
-            { text: '函数式编程', link: '/front-end/13' },
             { text: '前端鉴权', link: '/front-end/7' },
+            { text: '函数式编程', link: '/front-end/13' },
           ]
         },
       ],
