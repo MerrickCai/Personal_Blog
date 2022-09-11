@@ -61,6 +61,7 @@ export default {
             { text: '模块化', link: '/front-end/5' },
             { text: 'Pinia', link: '/front-end/6' },
             { text: '前端鉴权', link: '/front-end/7' },
+            { text: 'Web API', link: '/front-end/14' },
           ]
         },
       ],
