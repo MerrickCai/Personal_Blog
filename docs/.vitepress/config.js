@@ -54,7 +54,10 @@ export default {
           items: [
             { text: 'Git', link: '/front-end/1' },
             { text: 'CSS', link: '/front-end/8' },
-            { text: 'JS', link: '/front-end/9' },
+            { text: '移动端适配', link: '/front-end/15' },
+            { text: 'JS综合', link: '/front-end/9' },
+            { text: 'JS中BOM和DOM', link: '/front-end/16' },
+            { text: 'JS对象', link: '/front-end/17' },
             { text: '网络请求', link: '/front-end/2' },
             { text: '异步编程', link: '/front-end/3' },
             { text: '页面渲染', link: '/front-end/4' },
