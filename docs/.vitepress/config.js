@@ -62,9 +62,8 @@ export default {
             { text: '网络请求', link: '/front-end/knowledge/2' },
             { text: '页面渲染', link: '/front-end/knowledge/4' },
             { text: '模块化', link: '/front-end/knowledge/5' },
-            { text: 'vue状态管理Pinia', link: '/front-end/knowledge/6' },
-            { text: '前端鉴权', link: '/front-end/knowledge/7' },
-            { text: '前端路由', link: '/front-end/knowledge/14' },
+            { text: '鉴权', link: '/front-end/knowledge/7' },
+            { text: '路由', link: '/front-end/knowledge/14' },
           ]
         },
       ],
