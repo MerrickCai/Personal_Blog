@@ -1,7 +1,6 @@
 ---
 layout: docs
 title: 天梯
-description: 菜菜的个人博客
 ---
 
 
