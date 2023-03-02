@@ -73,7 +73,8 @@ export default {
           text: '笔记',
           items: [
             { text: 'C语言', link: '/notes/1' },
-            { text: '科幻', link: '/notes/2' }
+            { text: '科幻', link: '/notes/2' },
+            { text: '个人成长', link: '/notes/3' }
           ]
         }
       ]
