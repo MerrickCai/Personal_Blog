@@ -10,7 +10,7 @@ export default {
   ],
   lastUpdated: true,
   markdown: {
-    theme: 'material-palenight',
+    theme: 'material-theme-palenight',
     lineNumbers: true
   },
   //主题配置
