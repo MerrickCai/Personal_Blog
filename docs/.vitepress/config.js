@@ -74,7 +74,9 @@ export default {
           items: [
             { text: 'C语言', link: '/notes/1' },
             { text: '科幻', link: '/notes/2' },
-            { text: '个人成长', link: '/notes/3' }
+            { text: '个人成长', link: '/notes/3' },
+            { text: '交易', link: '/notes/4' },
+            { text: '外语学习', link: '/notes/5' }
           ]
         }
       ]
