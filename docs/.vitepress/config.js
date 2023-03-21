@@ -76,7 +76,8 @@ export default {
             { text: '科幻', link: '/notes/2' },
             { text: '个人成长', link: '/notes/3' },
             { text: '交易', link: '/notes/4' },
-            { text: '外语学习', link: '/notes/5' }
+            { text: '外语学习', link: '/notes/5' },
+            { text: '留学申请', link: '/notes/6' }
           ]
         }
       ]
