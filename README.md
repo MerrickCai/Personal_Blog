@@ -17,7 +17,7 @@
 
 - 克隆项目
 
-    `git clone git@github.com:Merrick-C/blog.git -b main`
+    `git clone git@github.com:Merrick-C/blog.git --depth=1 -b main`
 
     `npm install`
 
