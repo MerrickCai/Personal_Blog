@@ -44,7 +44,6 @@ export default {
             { text: '网站大全', link: '/front-end/mark/1' },
             { text: '前端开发之路', link: '/front-end/mark/2' },
             { text: '问卷易', link: '/front-end/mark/3' },
-            { text: 'SEATTA', link: '/front-end/mark/4' },
           ]
         },
         {
