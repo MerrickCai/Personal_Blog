@@ -1,4 +1,4 @@
 git add .
-git commit -m 'update content'
+git commit -m 'updateContent'
 git push
 exit
