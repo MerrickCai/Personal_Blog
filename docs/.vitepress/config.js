@@ -18,7 +18,7 @@ export default {
     logo: '/img/icon96.png',
     siteTitle: '天梯',
     outlineTitle: '目录',
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Merrick-C' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/MerrickCai' }],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2022-present 菜菜'
