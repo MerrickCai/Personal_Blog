@@ -17,13 +17,13 @@
 
 - 克隆项目
 
-    `git clone git@github.com:Merrick-C/blog.git --depth=1 -b main`
+    `git clone git@github.com:MerrickCai/Personal_Blog.git --depth=1 -b main`
 
     `npm install`
 
 - 关联远程
 
-    `git remote add origin git@github.com:Merrick-C/blog.git`
+    `git remote add origin git@github.com:MerrickCai/Personal_Blog.git`
 
 - 推送
 
