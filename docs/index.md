@@ -1,31 +1,34 @@
 ---
 layout: home
-title: 首页
+title: Home
 hero:
-  name: 天梯
-  text: 菜菜的个人博客
-  tagline: 创作中
+  name: Sky Ladder
+  text: Merrick Cai's personal blog
+  tagline: Creating
   image:
     src: /img/bg.png
     alt: background
   actions:
     - theme: brand
-      text: 前端开发
+      text: Notion Note
+      link: 'https://merrickcai.notion.site/Front-end-Dev-188e3a07cc988036a524c65fb43d2d06'
+    - theme: alt
+      text: Frontend Dev
       link: /front-end/mark/1
-    - theme: brand
-      text: 笔记
+    - theme: alt
+      text: Note
       link: /notes/1
     - theme: alt
-      text: 关于
+      text: About
       link: /about
 features:
   - icon: ⚡️
-    title: 前端开发
-    details: 记录一些前端开发的知识
+    title: Frontend Development
+    details: Recording knowledge about frontend development
   - icon: 📒
-    title: 笔记
-    details: 数学、物理、计算机
+    title: Notes
+    details: Mathematics, Physics, Computer Science
   - icon: 🛠️
-    title: 关于本站
-    details: 使用 Vitepress 生成，在 Netlify 部署
+    title: About This Site
+    details: Built with Vitepress and deployed on Netlify
 ---

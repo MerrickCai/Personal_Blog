@@ -1,8 +1,8 @@
 export default {
   //APP配置
-  lang: 'zh-Hans',
-  title: '天梯',
-  description: '菜菜的个人博客',
+  lang: 'en',
+  title: 'Sky Ladder',
+  description: "Merrick Cai's personal blog",
   head: [
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/img/icon16.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/img/icon32.png' }],
@@ -16,28 +16,29 @@ export default {
   //主题配置
   themeConfig: {
     logo: '/img/icon96.png',
-    siteTitle: '天梯',
-    outlineTitle: '目录',
+    siteTitle: 'Sky Ladder',
+    outlineTitle: 'Outline',
     socialLinks: [{ icon: 'github', link: 'https://github.com/MerrickCai' }],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2022-present 菜菜'
+      copyright: 'Copyright © 2022-present Merrick Cai'
     },
-    lastUpdatedText: '更新于',
+    lastUpdatedText: 'Updated at',
     docFooter: {
-      prev: '上一篇',
-      next: '下一篇'
+      prev: 'previous post',
+      next: 'next post'
     },
     nav: [
-      { text: '前端开发', link: '/front-end/mark/1', activeMatch: '/front-end/' },
-      { text: '笔记', link: '/notes/1', activeMatch: '/notes/' },
-      { text: '关于', link: '/about', activeMatch: '/about' },
+      { text: 'Notion Note', link: 'https://merrickcai.notion.site/Front-end-Dev-188e3a07cc988036a524c65fb43d2d06' },
+      { text: 'Frontend Dev', link: '/front-end/mark/1', activeMatch: '/front-end/' },
+      { text: 'Note', link: '/notes/1', activeMatch: '/notes/' },
+      { text: 'About', link: '/about', activeMatch: '/about' },
     ],
     //侧边导航
     sidebar: {
       '/front-end/': [
         {
-          text: '记录',
+          text: 'Record',
           collapsible: true,
           collapsed: false,
           items: [
@@ -47,7 +48,7 @@ export default {
           ]
         },
         {
-          text: '知识点',
+          text: 'Reference',
           collapsible: true,
           collapsed: false,
           items: [
@@ -69,12 +70,12 @@ export default {
       ],
       '/notes/': [
         {
-          text: '笔记',
+          text: 'Note',
           items: [
-            { text: 'C语言', link: '/notes/1' },
-            { text: '科幻', link: '/notes/2' },
-            { text: '交易', link: '/notes/4' },
-            { text: '外语学习', link: '/notes/5' }
+            { text: 'C Programming Language', link: '/notes/1' },
+            { text: 'Sci-fi', link: '/notes/2' },
+            { text: 'Trade', link: '/notes/4' },
+            { text: 'ESL', link: '/notes/5' }
           ]
         }
       ]
