@@ -44,7 +44,6 @@ export default {
           items: [
             { text: '网站大全', link: '/front-end/mark/1' },
             { text: '前端开发之路', link: '/front-end/mark/2' },
-            { text: '问卷易', link: '/front-end/mark/3' },
           ]
         },
         {
@@ -52,18 +51,13 @@ export default {
           collapsible: true,
           collapsed: false,
           items: [
-            { text: 'Git命令', link: '/front-end/knowledge/1' },
-            { text: '网络请求', link: '/front-end/knowledge/2' },
-            { text: '异步编程', link: '/front-end/knowledge/3' },
-            { text: '页面渲染', link: '/front-end/knowledge/4' },
-            { text: '模块化', link: '/front-end/knowledge/5' },
-            { text: '前端路由', link: '/front-end/knowledge/6' },
-            { text: '前端鉴权', link: '/front-end/knowledge/7' },
-            { text: 'JS综合', link: '/front-end/knowledge/9' },
-            { text: 'Web API', link: '/front-end/knowledge/10' },
-            { text: '样式兼容', link: '/front-end/knowledge/11' },
-            { text: 'JS对象', link: '/front-end/knowledge/12' },
-            { text: 'npm依赖', link: '/front-end/knowledge/13' },
+            { text: 'Page Rendering', link: '/front-end/knowledge/4' },
+            { text: 'Frontend Routing', link: '/front-end/knowledge/6' },
+            { text: 'Frontend Authentication', link: '/front-end/knowledge/7' },
+            { text: 'JS Comprehensive', link: '/front-end/knowledge/9' },
+            { text: 'Asynchronous Programming', link: '/front-end/knowledge/3' },
+            { text: 'JS Objects', link: '/front-end/knowledge/12' },
+            { text: 'Web API', link: '/front-end/knowledge/10' }
           ]
         },
       ],
