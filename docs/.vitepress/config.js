@@ -59,7 +59,6 @@ export default {
             { text: '模块化', link: '/front-end/knowledge/5' },
             { text: '前端路由', link: '/front-end/knowledge/6' },
             { text: '前端鉴权', link: '/front-end/knowledge/7' },
-            { text: 'CSS', link: '/front-end/knowledge/8' },
             { text: 'JS综合', link: '/front-end/knowledge/9' },
             { text: 'Web API', link: '/front-end/knowledge/10' },
             { text: '样式兼容', link: '/front-end/knowledge/11' },
