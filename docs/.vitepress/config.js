@@ -1,5 +1,5 @@
 export default {
-  //APP配置
+  //Configuration
   lang: 'en',
   title: 'Sky Ladder',
   description: "Merrick Cai's personal blog",
@@ -13,7 +13,7 @@ export default {
     theme: 'material-theme-palenight',
     lineNumbers: true
   },
-  //主题配置
+  // Theme configuration
   themeConfig: {
     logo: '/img/icon96.png',
     siteTitle: 'Sky Ladder',
@@ -34,7 +34,7 @@ export default {
       { text: 'Note', link: '/notes/1', activeMatch: '/notes/' },
       { text: 'About', link: '/about', activeMatch: '/about' },
     ],
-    //侧边导航
+    // Sidebar configuration
     sidebar: {
       '/front-end/': [
         {
