@@ -38,15 +38,6 @@ export default {
     sidebar: {
       '/front-end/': [
         {
-          text: 'Record',
-          collapsible: true,
-          collapsed: false,
-          items: [
-            { text: '网站大全', link: '/front-end/mark/1' },
-            { text: '前端开发之路', link: '/front-end/mark/2' },
-          ]
-        },
-        {
           text: 'Reference',
           collapsible: true,
           collapsed: false,
