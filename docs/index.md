@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Notion Note
-      link: 'https://merrickcai.notion.site/Front-end-Dev-188e3a07cc988036a524c65fb43d2d06'
+      link: "https://merrickcai.notion.site/Front-end-Dev-188e3a07cc988036a524c65fb43d2d06"
     - theme: alt
       text: Frontend Dev
-      link: /front-end/mark/1
+      link: /front-end/knowledge/3
     - theme: alt
       text: Note
       link: /notes/1

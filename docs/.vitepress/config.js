@@ -30,7 +30,7 @@ export default {
     },
     nav: [
       { text: 'Notion Note', link: 'https://merrickcai.notion.site/Front-end-Dev-188e3a07cc988036a524c65fb43d2d06' },
-      { text: 'Frontend Dev', link: '/front-end/mark/1', activeMatch: '/front-end/' },
+      { text: 'Frontend Dev', link: '/front-end/knowledge/3', activeMatch: '/front-end/' },
       { text: 'Note', link: '/notes/1', activeMatch: '/notes/' },
       { text: 'About', link: '/about', activeMatch: '/about' },
     ],
