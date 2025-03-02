@@ -1,5 +1,5 @@
 {
-  "name": "a",
+  "name": "sky_ladder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "docs:serve": "vitepress serve docs",
     "deploy": "deploy.cmd"
   },
-  "author": "",
+  "author": "Merrick Cai",
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.49",
